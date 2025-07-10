@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCB5GbMcasHdtKe-t2a7QZYA).
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
--⚡ Fun fact: Gym is my second IDE—Iron Development Environment.
+- ⚡ Fun fact: Gym is my second IDE—Iron Development Environment.
 
 
 ## 🌐 Socials
