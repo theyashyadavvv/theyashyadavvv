@@ -51,18 +51,18 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashyadavv02&theme=minimal" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=theyashyadavvv&theme=minimal" />
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashyadavv02&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theyashyadavvv&theme=vue" />
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashyadavv02&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashyadavv02&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=theyashyadavvv&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theyashyadavvv&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
