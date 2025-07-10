@@ -44,7 +44,18 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-%23FF69B4?style=for-the-badge)
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+### 💻 Devices & Terminals I Use
+
+<img src="https://img.shields.io/badge/HP_Laptop-%230079C1.svg?style=for-the-badge&logo=hp&logoColor=white" />
+<img src="https://img.shields.io/badge/Dell-Inspiron-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Terminal-%230078D6.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode_Terminal-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_Bash-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+
 
 
 
