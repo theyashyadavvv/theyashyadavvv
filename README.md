@@ -10,10 +10,9 @@
 - 🔭 I’m currently building [Cura.ai](health care ai).
 - 🌱 I’m currently learning more about AI and LLMs.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCB5GbMcasHdtKe-t2a7QZYA).
-- 🤔 I’m looking for help with my side projects.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 10 hours listening to songs every day.
+-⚡ Fun fact: Gym is my second IDE—Iron Development Environment.
 
 
 ## 🌐 Socials
@@ -65,19 +64,5 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theyashyadavvv&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
----
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imthepk) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) 
-  
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
